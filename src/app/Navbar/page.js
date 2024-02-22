@@ -1,7 +1,11 @@
-export default function home () {
+export default function NavBar () {
     return (
-        <div>
-            <h2>this is going to be page</h2>
-        </div>
+        <nav>
+            {menuData.map((menu, index) => {
+                return(
+                    <MenuItem items={menu} key={index}/>
+                )
+            })}
+        </nav>
     )
 }
