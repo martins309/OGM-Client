@@ -1,6 +1,6 @@
 import { menuData } from "./menuData"
 
-export default function NavBar () {
+export default function NavBar ({ menu }) {
     return (
         <nav className="navbar">
             <ul className="menu">
