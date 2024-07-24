@@ -4,7 +4,7 @@ import NavBar from "./Navbar/page";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "OGMX Online Store "
+  title: "OGM Media"
 };
 
 export default function RootLayout({ children }) {
