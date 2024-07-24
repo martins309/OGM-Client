@@ -3,6 +3,10 @@ export const menuData = [
         title: 'Home',
         url: '/',
     },
+    {
+        title: 'Services',
+        url: '/services',
+    },
 
     {
         title: 'Shop',
@@ -23,10 +27,6 @@ export const menuData = [
         ]
     },
 
-    {
-        title: 'About',
-        url: '/about',
-    },
     {
         title: 'Contact',
         url: '/contact'
