@@ -7,7 +7,10 @@ export const menuData = [
         title: 'Services',
         url: '/services',
     },
-
+    {
+        title: 'Designs',
+        url: '/designs',
+    },
     {
         title: 'Shop',
         url: '/shop',
