@@ -1,18 +1,18 @@
 export const menuData = [
     {
-        title: 'home',
+        title: 'Home',
         url: '/',
     },
     {
-        title: 'services',
+        title: 'Services',
         url: '/services',
     },
     {
-        title: 'designs',
-        url: '/designs',
+        title: 'Designs',
+        url: '/Designs',
     },
     {
-        title: 'shop',
+        title: 'Shop',
         url: '/shop',
         submenu: [
             {
@@ -25,13 +25,13 @@ export const menuData = [
             },
             {
                 title: 't-shirts',
-                url: 'tshirts'
+                url: 't-shirts'
             }
         ]
     },
 
     {
-        title: 'contact',
+        title: 'Contact',
         url: '/contact'
     }
 
