@@ -1,7 +1,11 @@
-import NavBar from "./page"
+import NavBar from "../Navbar"
 import styles from "./nav.module.css"
 export default function navLayout({ children }){
     return (
-        <NavBar className={styles.navbar}/>
+        <div>
+            <NavBar />
+            {children}
+        </div>
+    
     )
 }
