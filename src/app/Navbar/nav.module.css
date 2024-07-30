@@ -1,17 +1,21 @@
-.navbar {
-  
-    
-  }
+.navbar{
+    font-size: large;
+}
 
 .menu {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-start;
     list-style-type: none;
     padding: 0;
+    margin-left: 1930px;
     text-decoration: none;
 }
 
 .menu li {
-    margin-left: 200px;
+    margin-left: 20px;
 }
 
+.menu a {
+    text-decoration: none;
+    color: black;
+}

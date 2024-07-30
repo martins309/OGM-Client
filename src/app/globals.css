@@ -1,18 +1,10 @@
-.navbar{
-  color: black;
-}
-
 .home {
   color: black;
 }
+
 body {
   background-color: white;
 }
 
 
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
