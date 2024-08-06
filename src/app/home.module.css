@@ -1,6 +1,7 @@
-.homebody {
-  background-image: url("/anatol.jpg");
-  background-size: center;
-  background-position: center; /* Centers the image */
-  background-repeat: no-repeat; /* Prevents the image from repeating */
+.home {
+  background-image: url("/nextTol.jpg");
+  background-size: 980px 1110px;
+  background-position: center; 
+  background-repeat: no-repeat;  
+  height: 100vh;
 }

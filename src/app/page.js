@@ -1,8 +1,8 @@
-import styles from "./home.module.css"; 
+import styles from "../app/home.module.css"; 
 
 export default function Home() {
   return (
-    <div className={styles.homebody}>
+    <div className={styles.home}>
       
     </div>
   );
