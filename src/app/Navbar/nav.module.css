@@ -1,5 +1,5 @@
 .navbar{
-    font-size: large;
+    font-size: x-large;
 }
 
 .menu {
@@ -7,7 +7,7 @@
     justify-content: flex-start;
     list-style-type: none;
     padding: 0;
-    margin-left: 1930px;
+    margin-left: 1900px;
     text-decoration: none;
 }
 
